@@ -1,0 +1,72 @@
+[
+    {
+        "id": "123456",
+        "cover": "https://i.pinimg.com/originals/0d/84/8c/0d848c32d1181011fba9fec18e461531.jpg",
+        "title": "The Secret Garden",
+        "author": "Emily Johnson",
+        "author_img": "https://images.unsplash.com/photo-1554080353-a576cf803bda?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "posted_date": "2024-03-12",
+        "reading_time": 30,
+        "hashtags": [
+            "#fiction",
+            "#gardening",
+            "#mystery"
+        ]
+    },
+    {
+        "id": "789012",
+        "cover": "https://i.pinimg.com/originals/0d/84/8c/0d848c32d1181011fba9fec18e461531.jpg",
+        "title": "Beyond the Horizon",
+        "author": "Michael Roberts",
+        "author_img": "https://images.unsplash.com/photo-1554080353-a576cf803bda?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "posted_date": "2024-03-10",
+        "reading_time": 45,
+        "hashtags": [
+            "#adventure",
+            "#sci-fi",
+            "#exploration"
+        ]
+    },
+    {
+        "id": "345678",
+        "cover": "https://i.pinimg.com/originals/0d/84/8c/0d848c32d1181011fba9fec18e461531.jpg",
+        "title": "Echoes of Eternity",
+        "author": "Sarah Thompson",
+        "author_img": "https://images.unsplash.com/photo-1554080353-a576cf803bda?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "posted_date": "2024-03-08",
+        "reading_time": 60,
+        "hashtags": [
+            "#fantasy",
+            "#magic",
+            "#time-travel"
+        ]
+    },
+    {
+        "id": "901234",
+        "cover": "https://i.pinimg.com/originals/0d/84/8c/0d848c32d1181011fba9fec18e461531.jpg",
+        "title": "The Midnight Detective",
+        "author": "David Lee",
+        "author_img": "https://images.unsplash.com/photo-1554080353-a576cf803bda?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "posted_date": "2024-03-06",
+        "reading_time": 40,
+        "hashtags": [
+            "#mystery",
+            "#detective",
+            "#noir"
+        ]
+    },
+    {
+        "id": "567890",
+        "cover": "https://i.pinimg.com/originals/0d/84/8c/0d848c32d1181011fba9fec18e461531.jpg",
+        "title": "Whispers in the Wind",
+        "author": "Rachel Adams",
+        "author_img": "https://images.unsplash.com/photo-1554080353-a576cf803bda?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "posted_date": "2024-03-04",
+        "reading_time": 55,
+        "hashtags": [
+            "#romance",
+            "#drama",
+            "#relationships"
+        ]
+    }
+]
